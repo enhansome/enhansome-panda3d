@@ -18,7 +18,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tutorials
 
-* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,814 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
+* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,816 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
   A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2019-07-31:
   A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
