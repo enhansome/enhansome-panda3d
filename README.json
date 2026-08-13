@@ -1,0 +1,237 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lettier's 3D Game Shaders For Beginners",
+          "description": "A \"a collection of shading techniques that will take your game visuals to new heights\" with plenty of explanations that also uses Panda3D for the example code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-25T21:58:57Z",
+            "owner": "lettier",
+            "repo": "3d-game-shaders-for-beginners",
+            "stars": 19814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fireclaw's Panda3D Game Development Book",
+          "description": "A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-31T21:01:09Z",
+            "owner": "fireclawthefox",
+            "repo": "panda3d-tutorial",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fireclaw's Panda3D Art Creation with Blender",
+          "description": "A book that teaches how to create game ready models with Blender and export them to be usable with Panda3D",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-21T08:11:24Z",
+            "owner": "fireclawthefox",
+            "repo": "panda3d-tutorial2",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RenderPipeline",
+          "description": "A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T20:19:06Z",
+            "owner": "tobspr",
+            "repo": "RenderPipeline",
+            "stars": 1009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Limeade",
+          "description": "Refresh your Python code without restarting your Panda app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-20T18:05:12Z",
+            "owner": "CFSworks",
+            "repo": "limeade",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panda3d-simplepbr",
+          "description": "A straight-forward, easy-to-use, drop-in, PBR replacement for Panda3D's builtin auto shader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T16:57:00Z",
+            "owner": "Moguri",
+            "repo": "panda3d-simplepbr",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panda3d-complexpbr",
+          "description": "IBL rendering module supporting real-time reflections and post-processing effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:12:25Z",
+            "owner": "rayanalysis",
+            "repo": "panda3d-complexpbr",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "types-panda3d",
+          "description": "Type stubs for Panda3D",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T02:36:09Z",
+            "owner": "WMOkiishi",
+            "repo": "types-panda3d",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panda3d-character-controller",
+          "description": "An extensive character controller system to be used with the Panda3D engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-29T19:18:53Z",
+            "owner": "fireclawthefox",
+            "repo": "panda3d-character-controller",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panda3d-stageflow",
+          "description": "Encapsulate stages of your game (splashs, credits, cutscenes, menus...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-12T23:28:31Z",
+            "owner": "TheCheapestPixels",
+            "repo": "panda3d-stageflow",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FRAME",
+          "description": "The modular game editor for Panda3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-22T20:17:44Z",
+            "owner": "fireclawthefox",
+            "repo": "FRAME",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pman",
+          "description": "A tool for asset and project management for Panda3D applications, including quick-start and distribution. Go from zero to binary with just !",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-16T06:17:59Z",
+            "owner": "Moguri",
+            "repo": "pman",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "panda3d-gltf",
+          "description": "Converts glTF 2.0 files to Panda3D's native BAM format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-16T20:18:53Z",
+            "owner": "Moguri",
+            "repo": "panda3d-gltf",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blend2bam",
+          "description": "A command line tool to convert blend files to BAM (requires Blender to be installed)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-20T00:26:22Z",
+            "owner": "Moguri",
+            "repo": "blend2bam",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Importers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games Made with Panda3D"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:31.101Z",
+    "original_repository": "Moguri/awesome-panda3d",
+    "original_repository_sha": "87ea74341b348f3ac178b2ccda6674c9d31500b1",
+    "enhanced_repository": "enhansome/enhansome-panda3d",
+    "enhanced_repository_description": null,
+    "title": "Awesome Panda3D with stars"
+  }
+}
