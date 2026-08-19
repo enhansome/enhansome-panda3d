@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186309296,
             "language": "C++",
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19834
+            "stars": 19837
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44134119,
             "language": "Python",
             "last_commit": "2019-07-31T21:01:09Z",
             "owner": "fireclawthefox",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56962760,
             "language": "Python",
             "last_commit": "2017-10-21T08:11:24Z",
             "owner": "fireclawthefox",
@@ -49,7 +52,7 @@
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21068958,
             "language": "Python",
             "last_commit": "2026-07-19T20:19:06Z",
             "owner": "tobspr",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211341796,
             "language": "Python",
             "last_commit": "2020-09-20T18:05:12Z",
             "owner": "CFSworks",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208931934,
             "language": "Python",
             "last_commit": "2025-03-30T16:57:00Z",
             "owner": "Moguri",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441822532,
             "language": "Python",
             "last_commit": "2026-08-06T12:12:25Z",
             "owner": "rayanalysis",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520733181,
             "language": "Python",
             "last_commit": "2026-01-10T02:36:09Z",
             "owner": "WMOkiishi",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313692379,
             "language": "Python",
             "last_commit": "2023-01-29T19:18:53Z",
             "owner": "fireclawthefox",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241493383,
             "language": "Python",
             "last_commit": "2021-06-12T23:28:31Z",
             "owner": "TheCheapestPixels",
@@ -153,7 +163,7 @@
       "title": "Modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473577095,
             "language": "Python",
             "last_commit": "2024-04-22T20:17:44Z",
             "owner": "fireclawthefox",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111368053,
             "language": "Python",
             "last_commit": "2025-03-16T06:17:59Z",
             "owner": "Moguri",
@@ -187,7 +199,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141873442,
             "language": "Python",
             "last_commit": "2025-08-16T20:18:53Z",
             "owner": "Moguri",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165610295,
             "language": "Python",
             "last_commit": "2025-07-20T00:26:22Z",
             "owner": "Moguri",
@@ -219,15 +233,10 @@
         }
       ],
       "title": "Importers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Games Made with Panda3D"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:58:55.197Z",
+    "last_updated": "2026-08-19T09:00:14.589Z",
     "original_repository": "Moguri/awesome-panda3d",
     "original_repository_sha": "87ea74341b348f3ac178b2ccda6674c9d31500b1",
     "enhanced_repository": "enhansome/enhansome-panda3d",
