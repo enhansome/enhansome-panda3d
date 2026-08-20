@@ -15,7 +15,7 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19839
+            "stars": 19843
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-19T20:19:06Z",
             "owner": "tobspr",
             "repo": "RenderPipeline",
-            "stars": 1009
+            "stars": 1010
           }
         },
         {
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:40.801Z",
+    "last_updated": "2026-08-20T09:01:14.069Z",
     "original_repository": "Moguri/awesome-panda3d",
     "original_repository_id": 171508793,
     "original_repository_sha": "87ea74341b348f3ac178b2ccda6674c9d31500b1",
