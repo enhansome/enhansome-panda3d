@@ -15,7 +15,7 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19843
+            "stars": 19845
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 441822532,
             "language": "Python",
-            "last_commit": "2026-08-06T12:12:25Z",
+            "last_commit": "2026-08-21T08:37:07Z",
             "owner": "rayanalysis",
             "repo": "panda3d-complexpbr",
             "stars": 31
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:01:14.069Z",
+    "last_updated": "2026-08-21T09:03:38.652Z",
     "original_repository": "Moguri/awesome-panda3d",
     "original_repository_id": 171508793,
     "original_repository_sha": "87ea74341b348f3ac178b2ccda6674c9d31500b1",
