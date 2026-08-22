@@ -18,7 +18,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tutorials
 
-* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,845 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
+* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,846 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
   A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2019-07-31:
   A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
@@ -36,7 +36,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Modules
 
-* [RenderPipeline](https://github.com/tobspr/RenderPipeline) ⭐ 1,010 | 🐛 35 | 🌐 Python | 📅 2026-07-19:
+* [RenderPipeline](https://github.com/tobspr/RenderPipeline) ⭐ 1,011 | 🐛 35 | 🌐 Python | 📅 2026-07-19:
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
 * [Limeade](https://github.com/CFSworks/limeade) ⭐ 90 | 🐛 2 | 🌐 Python | 📅 2020-09-20:
   Refresh your Python code without restarting your Panda app
@@ -92,4 +92,4 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
