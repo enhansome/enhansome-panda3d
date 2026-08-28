@@ -18,7 +18,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tutorials
 
-* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,855 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
+* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,859 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
   A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2019-07-31:
   A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
@@ -42,7 +42,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   Refresh your Python code without restarting your Panda app
 * [panda3d-simplepbr](https://github.com/Moguri/panda3d-simplepbr/) ⭐ 69 | 🐛 8 | 🌐 Python | 📅 2025-03-30:
   A straight-forward, easy-to-use, drop-in, PBR replacement for Panda3D's builtin auto shader
-* [panda3d-complexpbr](https://github.com/rayanalysis/panda3d-complexpbr) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2026-08-21
+* [panda3d-complexpbr](https://github.com/rayanalysis/panda3d-complexpbr) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2026-08-28
   IBL rendering module supporting real-time reflections and post-processing effects
 * [types-panda3d](https://github.com/WMOkiishi/types-panda3d) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-01-10:
   Type stubs for Panda3D
@@ -92,4 +92,4 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

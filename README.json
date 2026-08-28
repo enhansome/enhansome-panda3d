@@ -15,8 +15,9 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19855
-          }
+            "stars": 19859
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "fireclawthefox",
             "repo": "panda3d-tutorial",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "fireclawthefox",
             "repo": "panda3d-tutorial2",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         }
       ],
       "title": "Tutorials"
@@ -67,7 +70,8 @@
             "owner": "tobspr",
             "repo": "RenderPipeline",
             "stars": 1011
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "CFSworks",
             "repo": "limeade",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "Moguri",
             "repo": "panda3d-simplepbr",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 441822532,
             "language": "Python",
-            "last_commit": "2026-08-21T11:03:08Z",
+            "last_commit": "2026-08-28T10:41:49Z",
             "owner": "rayanalysis",
             "repo": "panda3d-complexpbr",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "WMOkiishi",
             "repo": "types-panda3d",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "fireclawthefox",
             "repo": "panda3d-character-controller",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "TheCheapestPixels",
             "repo": "panda3d-stageflow",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         }
       ],
       "title": "Modules"
@@ -178,7 +188,8 @@
             "owner": "fireclawthefox",
             "repo": "FRAME",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "Moguri",
             "repo": "pman",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         }
       ],
       "title": "Tools"
@@ -214,7 +226,8 @@
             "owner": "Moguri",
             "repo": "panda3d-gltf",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         },
         {
           "node_type": "item",
@@ -229,14 +242,15 @@
             "owner": "Moguri",
             "repo": "blend2bam",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
         }
       ],
       "title": "Importers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:09:00.580Z",
+    "last_updated": "2026-08-28T20:15:05.252Z",
     "original_repository_info": {
       "archived": false,
       "id": 171508793,
