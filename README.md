@@ -92,4 +92,4 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

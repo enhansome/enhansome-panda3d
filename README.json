@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+            "homepage": "https://lettier.github.io/3d-game-shaders-for-beginners/index.html",
             "id": 186309296,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-06-25T21:58:57Z",
+            "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19859
+            "stars": 19859,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "game-development",
+              "gamedev",
+              "glsl",
+              "glsl-shader",
+              "glsl-shaders",
+              "godot",
+              "graphics",
+              "graphics-programming",
+              "hlsl",
+              "indiedev",
+              "opengl",
+              "panda3d",
+              "shader",
+              "shaders",
+              "unity",
+              "unity3d",
+              "vulkan",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -26,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tutorial about game creation with the Panda3D game engine",
+            "homepage": null,
             "id": 44134119,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-31T21:01:09Z",
+            "open_issues": 1,
             "owner": "fireclawthefox",
             "repo": "panda3d-tutorial",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -42,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tutorial about creating game ready models with Blender for Panda3D",
+            "homepage": null,
             "id": 56962760,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-10-21T08:11:24Z",
+            "open_issues": 0,
             "owner": "fireclawthefox",
             "repo": "panda3d-tutorial2",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         }
@@ -64,12 +100,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Physically Based Shading and Deferred Rendering for the Panda3D game engine",
+            "homepage": "https://github.com/tobspr/RenderPipeline/wiki",
             "id": 21068958,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T20:19:06Z",
+            "open_issues": 35,
             "owner": "tobspr",
             "repo": "RenderPipeline",
-            "stars": 1011
+            "stars": 1011,
+            "topics": [
+              "deferred-rendering",
+              "game-development",
+              "glsl",
+              "opengl",
+              "panda3d-game-engine",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -80,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live module editing and development enhancement supporting hot reloading for Python 3.4+",
+            "homepage": null,
             "id": 211341796,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-09-20T18:05:12Z",
+            "open_issues": 2,
             "owner": "CFSworks",
             "repo": "limeade",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -96,12 +149,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A straight-forward, easy-to-use, drop-in, PBR replacement for Panda3D's builtin auto shader",
+            "homepage": null,
             "id": 208931934,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-03-30T16:57:00Z",
+            "open_issues": 8,
             "owner": "Moguri",
             "repo": "panda3d-simplepbr",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "gamedev",
+              "panda3d",
+              "pbr-shading",
+              "rendering"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -112,12 +175,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBL rendering module supporting real-time reflections and post-processing effects in Panda3D",
+            "homepage": "https://pypi.org/project/panda3d-complexpbr/",
             "id": 441822532,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:41:49Z",
+            "open_issues": 2,
             "owner": "rayanalysis",
             "repo": "panda3d-complexpbr",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "ibl",
+              "pbr",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -128,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type stubs for the Panda3D Python bindings",
+            "homepage": null,
             "id": 520733181,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-10T02:36:09Z",
+            "open_issues": 5,
             "owner": "WMOkiishi",
             "repo": "types-panda3d",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -144,12 +221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313692379,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-29T19:18:53Z",
+            "open_issues": 0,
             "owner": "fireclawthefox",
             "repo": "panda3d-character-controller",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -160,12 +242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Abstraction for certain stages and sub-stages during a game's runtime lifecycle",
+            "homepage": null,
             "id": 241493383,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-06-12T23:28:31Z",
+            "open_issues": 2,
             "owner": "TheCheapestPixels",
             "repo": "panda3d-stageflow",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         }
@@ -182,12 +269,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modular Game Editor for Panda3D",
+            "homepage": null,
             "id": 473577095,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-04-22T20:17:44Z",
+            "open_issues": 8,
             "owner": "fireclawthefox",
             "repo": "FRAME",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "editor",
+              "game-development",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -198,12 +295,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package to help bootstrap and manage Panda3D applications",
+            "homepage": null,
             "id": 111368053,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-16T06:17:59Z",
+            "open_issues": 8,
             "owner": "Moguri",
             "repo": "pman",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "game-development",
+              "gamedev",
+              "gamedev-tool",
+              "panda3d",
+              "panda3d-game-engine"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         }
@@ -220,12 +328,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "glTF utilities for Panda3D",
+            "homepage": null,
             "id": 141873442,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-16T20:18:53Z",
+            "open_issues": 25,
             "owner": "Moguri",
             "repo": "panda3d-gltf",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "gamedev",
+              "gltf",
+              "panda3d"
+            ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         },
@@ -236,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool to convert Blender blend files to Panda3D BAM files",
+            "homepage": null,
             "id": 165610295,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-20T00:26:22Z",
+            "open_issues": 16,
             "owner": "Moguri",
             "repo": "blend2bam",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
         }
@@ -250,15 +372,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:15:05.252Z",
+    "last_updated": "2026-08-29T04:59:34.406Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources for using Panda3D",
+      "homepage": null,
       "id": 171508793,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-10T05:56:46Z",
+      "open_issues": 2,
       "owner": "Moguri",
       "repo": "awesome-panda3d",
-      "stars": 87
+      "stars": 87,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-development",
+        "panda3d",
+        "panda3d-game-engine"
+      ]
     },
     "original_repository_sha": "87ea74341b348f3ac178b2ccda6674c9d31500b1",
     "enhanced_repository": "enhansome/enhansome-panda3d",
