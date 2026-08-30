@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19859,
+            "stars": 19860,
             "topics": [
               "3d",
               "3d-graphics",
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:53:09.377Z",
+    "last_updated": "2026-08-30T13:51:05.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for using Panda3D",
