@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19912,
+            "stars": 19918,
             "topics": [
               "3d",
               "3d-graphics",
@@ -109,7 +109,7 @@
             "open_issues": 35,
             "owner": "tobspr",
             "repo": "RenderPipeline",
-            "stars": 1011,
+            "stars": 1012,
             "topics": [
               "deferred-rendering",
               "game-development",
@@ -137,7 +137,7 @@
             "open_issues": 2,
             "owner": "CFSworks",
             "repo": "limeade",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:06:10.902Z",
+    "last_updated": "2026-09-21T15:10:36.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for using Panda3D",
