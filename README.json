@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19940,
+            "stars": 19935,
             "topics": [
               "3d",
               "3d-graphics",
@@ -264,32 +264,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "FRAME",
-          "description": "The modular game editor for Panda3D.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The modular Game Editor for Panda3D",
-            "homepage": null,
-            "id": 473577095,
-            "language": "Python",
-            "license": "BSD-2-Clause",
-            "last_commit": "2024-04-22T20:17:44Z",
-            "open_issues": 8,
-            "owner": "fireclawthefox",
-            "repo": "FRAME",
-            "stars": 20,
-            "topics": [
-              "editor",
-              "game-development",
-              "game-engine",
-              "gamedev"
-            ]
-          },
-          "first_seen": "2026-08-28T20:15:05.252Z"
-        },
-        {
-          "node_type": "item",
           "title": "pman",
           "description": "A tool for asset and project management for Panda3D applications, including quick-start and distribution. Go from zero to binary with just !",
           "children": [],
@@ -311,6 +285,32 @@
               "gamedev-tool",
               "panda3d",
               "panda3d-game-engine"
+            ]
+          },
+          "first_seen": "2026-08-28T20:15:05.252Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FRAME",
+          "description": "The modular game editor for Panda3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The modular Game Editor for Panda3D",
+            "homepage": null,
+            "id": 473577095,
+            "language": "Python",
+            "license": "BSD-2-Clause",
+            "last_commit": "2024-04-22T20:17:44Z",
+            "open_issues": 8,
+            "owner": "fireclawthefox",
+            "repo": "FRAME",
+            "stars": 19,
+            "topics": [
+              "editor",
+              "game-development",
+              "game-engine",
+              "gamedev"
             ]
           },
           "first_seen": "2026-08-28T20:15:05.252Z"
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:18:35.669Z",
+    "last_updated": "2026-10-07T15:38:12.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for using Panda3D",

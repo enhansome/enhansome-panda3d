@@ -18,7 +18,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tutorials
 
-* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,940 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
+* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,935 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
   A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2019-07-31:
   A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
@@ -53,10 +53,10 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tools
 
-* [FRAME](https://github.com/fireclawthefox/FRAME) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2024-04-22:
-  The modular game editor for Panda3D.
 * [pman](https://github.com/Moguri/pman) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2025-03-16:
   A tool for asset and project management for Panda3D applications, including quick-start and distribution. Go from zero to binary with just `pman create . && pman dist`!
+* [FRAME](https://github.com/fireclawthefox/FRAME) ⭐ 19 | 🐛 8 | 🌐 Python | 📅 2024-04-22:
+  The modular game editor for Panda3D.
 
 ## Importers
 
@@ -92,4 +92,4 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
