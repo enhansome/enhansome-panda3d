@@ -18,7 +18,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tutorials
 
-* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,943 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
+* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,945 | 🐛 18 | 🌐 C++ | 📅 2023-06-25:
   A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2019-07-31:
   A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
@@ -60,7 +60,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Importers
 
-* [panda3d-gltf](https://github.com/Moguri/panda3d-gltf) ⭐ 99 | 🐛 25 | 🌐 Python | 📅 2025-08-16:
+* [panda3d-gltf](https://github.com/Moguri/panda3d-gltf) ⭐ 100 | 🐛 25 | 🌐 Python | 📅 2025-08-16:
   Converts glTF 2.0 files to Panda3D's native BAM format
 * [blend2bam](https://github.com/Moguri/panda3d-blend2bam) ⭐ 73 | 🐛 16 | 🌐 Python | 📅 2025-07-20:
   A command line tool to convert blend files to BAM (requires Blender to be installed)
@@ -92,4 +92,4 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
