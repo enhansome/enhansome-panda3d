@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 20006,
+            "stars": 20008,
             "topics": [
               "3d",
               "3d-graphics",
@@ -180,7 +180,7 @@
             "id": 441822532,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T05:25:36Z",
+            "last_commit": "2026-11-02T01:49:54Z",
             "open_issues": 2,
             "owner": "rayanalysis",
             "repo": "panda3d-complexpbr",
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:19:06.004Z",
+    "last_updated": "2026-11-02T18:33:31.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for using Panda3D",
