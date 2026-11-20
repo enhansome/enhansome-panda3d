@@ -109,7 +109,7 @@
             "open_issues": 35,
             "owner": "tobspr",
             "repo": "RenderPipeline",
-            "stars": 1016,
+            "stars": 1015,
             "topics": [
               "deferred-rendering",
               "game-development",
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:27:33.929Z",
+    "last_updated": "2026-11-20T17:02:51.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for using Panda3D",

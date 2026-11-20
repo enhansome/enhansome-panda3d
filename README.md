@@ -36,7 +36,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Modules
 
-* [RenderPipeline](https://github.com/tobspr/RenderPipeline) ⭐ 1,016 | 🐛 35 | 🌐 Python | 📅 2026-07-19:
+* [RenderPipeline](https://github.com/tobspr/RenderPipeline) ⭐ 1,015 | 🐛 35 | 🌐 Python | 📅 2026-07-19:
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
 * [Limeade](https://github.com/CFSworks/limeade) ⭐ 91 | 🐛 2 | 🌐 Python | 📅 2020-09-20:
   Refresh your Python code without restarting your Panda app
@@ -92,4 +92,4 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
